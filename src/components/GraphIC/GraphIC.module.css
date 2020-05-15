@@ -1,0 +1,11 @@
+.Graph {
+    display: flex;
+    width: 100%;
+  }
+  
+  .Graph p {
+    text-align: justify;
+    flex: 1 0 50%;
+    margin: 15px;
+  }
+  
